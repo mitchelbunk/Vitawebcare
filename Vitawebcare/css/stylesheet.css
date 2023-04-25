@@ -1,10 +1,12 @@
 body {
     background-color: #FAF8DA;
     font-family: 'Open Sans', sans-serif;
+    margin: 0;
 }
 
 .primary-header{
     background-color: blue;
+    text-align: center;
 }
 
 .main-heading{
@@ -15,3 +17,48 @@ body {
 .town-preview{
     width: 650px;
 }
+
+.building{
+    width: 200px;
+}
+.category-heading {
+    color:#205d76;
+    font-size: 30px;
+}
+
+.store-list {
+    color: #ffc122;
+    padding-left: 15px;
+}
+
+.store-link{
+    color: #ea6e2f;
+    font-size: 20px;
+}
+
+.primary-footer{
+    background-color: #fbde7e;
+}
+
+.primary-footer p{
+    color: #fff;
+    text-align: center;
+    background-color: #FFC122;
+    padding: 2px;
+}
+
+.store-section {
+    display: flex;
+    display: -webkit-flex;
+    margin: 50px auto;
+    width: 450px;
+}
+
+.stoge-details {
+    margin-left: 30px;
+}
+
+.store-name {
+    margin-bottom: 10px;
+}
+
