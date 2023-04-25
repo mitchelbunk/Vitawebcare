@@ -1,0 +1,17 @@
+body {
+    background-color: #FAF8DA;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.primary-header{
+    background-color: blue;
+}
+
+.main-heading{
+    font-size: 70px;
+    color: #205d76;
+}
+
+.town-preview{
+    width: 650px;
+}
